@@ -1,14 +1,14 @@
-${\color{Goldenrod}\Huge{\textsf{ !!! Arcana Benchmarks !!! }}}$
-
 ${\color{Goldenrod}\Huge{\textsf{ 1. Unit Tests: Chunking }}}$
 
-${\color{Goldenrod}\Huge{\textsf{ 2. Unit Tests: Phase 1 + Phase 2 + Planner + Session Mgmt }}}$
+${\color{Goldenrod}\Huge{\textsf{ 2. Unit Tests: General (intros, planner, session mgmt) }}}$
 
-${\color{Goldenrod}\Huge{\textsf{ 3. Benchmarks: Level 1 - Small Repos (10-100 file range) }}}$
+${\color{Goldenrod}\Huge{\textsf{ 3. Benchmarks: Level 1 - Small Repos (1-10 file range) }}}$
 
-${\color{Goldenrod}\Huge{\textsf{ 4. Benchmarks: Level 2 - Med Size Repo/Monorepos }}}$
+${\color{Goldenrod}\Huge{\textsf{ 4. Benchmarks: Level 2 - Med-1 (10-100) Size Repo/Monorepos }}}$
 
-${\color{Goldenrod}\Huge{\textsf{ 5. Benchmarks: Level 3 - Kernel (1m+) }}}$
+${\color{Goldenrod}\Huge{\textsf{ 5. Benchmarks: Level 3 - Med-2 (100-5000) Size Repo/Monorepos }}}$
+
+${\color{Goldenrod}\Huge{\textsf{ 6. Benchmarks: Level 4 - Kernel (1m+) }}}$
 
 [![OS](https://img.shields.io/badge/OS-linux%2C%20windows%2C%20macOS-0078D4)](https://docs.abblix.com/docs/technical-requirements)
 [![GitHub last commit](https://img.shields.io/github/last-commit/sdfgsdfgd/arcana)](#)
